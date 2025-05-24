@@ -1,0 +1,29 @@
+# Typer 52325
+
+- This app is a website that simulates typing code in an IDE like Visual Studio or VS Code.
+- Purpose: Wallpaper, Art, Entertainment
+
+## Operation
+- Start website
+- vscode design simulation loads
+- Begins typing classes, functions, variables, etc of a fake application with the Visual Studio styling for the text to look exactly like the IDE
+- A casual passerby should think that a program is being coded.
+
+## Features
+- Sidebar with simulated file system - Folders will function as stealth buttons to things like links, options
+- Click to pause typing simulation
+- Various speeds of typing
+- Options: Speed control, new file (simulated, makes simulated file or folder in the sidebar)
+
+
+## Tech Stack
+
+- React 
+- Vite
+
+## Sample Code Types
+- Aviation software
+- Online banking software
+- Multiplayer game server
+- Dating calulator api
+- Social media platform 
